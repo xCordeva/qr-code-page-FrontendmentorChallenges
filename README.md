@@ -29,5 +29,5 @@ How to effictively center items into a page wihtout much complications
 
 ## Demo 
 
-You can check out a live demo of this website [here](https://xcordeva.github.io/FrontEndMentor-Challenges/qr-code-page/).
+You can check out a live demo of this website [Click here](https://xcordeva.github.io/qr-code-page-FrontendmentorChallenges).
 
